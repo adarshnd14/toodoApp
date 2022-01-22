@@ -1,0 +1,24 @@
+.form{
+    border: 1px solid rgb(253, 253, 253);
+    display: inline-block;
+    /* box-shadow: 2px 2px 2px black; */
+    border-radius: 5px;
+    padding: 10px;
+    background:rgb(191, 229, 248);
+    padding-right: 30px;
+
+  }
+  body{
+    background:rgb(14, 173, 236)
+  }
+  .inside{
+    display: inline-block;
+    position: relative;
+    margin-left: 570px;
+    margin-top: -85px;
+  }
+  .myTable{
+    table-layout: fixed;
+    width: 620px;
+    text-align:'center';
+  }
